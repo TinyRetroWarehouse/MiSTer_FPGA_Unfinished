@@ -6,6 +6,7 @@ WIP
 ToDo
 Fix Ram OE
 Test HDMI
+check IO
 
 
 
