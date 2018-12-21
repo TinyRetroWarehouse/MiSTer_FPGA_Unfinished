@@ -1,3 +1,0 @@
-Totally untested (will check tomorrow)
-
-Joystick and Screen rotate should not work properly

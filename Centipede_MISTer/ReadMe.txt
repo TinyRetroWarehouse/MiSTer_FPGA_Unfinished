@@ -1,0 +1,2 @@
+Todo : 	Graphic Glitches
+	Controls
